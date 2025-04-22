@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: afdsmallexperimental
+  project: d-fire-k93ds
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/afdsmallexperimental/d-fire-k93ds/dataset/2
