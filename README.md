@@ -10,7 +10,7 @@ This project applies the YOLOv8 object detection model to identify wildfire-rela
 - **Framework**: Ultralytics YOLO, PyTorch
 - **Detection Classes**: `fire`, `smoke`
 - **Dataset Size**: Standardized image input size: 640×640
-- **Model Accuracy**: **83%**
+- **Model Accuracy**: **78%**
 
 ---
 
